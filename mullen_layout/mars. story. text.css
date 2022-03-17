@@ -1,0 +1,15 @@
+#content {
+margin= "0" auto;
+width= 900px;
+}
+
+blockquote {
+font: 24px sans-seriff, georgia;
+font-style: normal;
+margin-top: 10px;
+margin-bottom: 10px;
+color: #8B0000;
+border-right: 4px gradient, white;
+margin-left: 15px;
+margin-right: 12.5px;
+}
