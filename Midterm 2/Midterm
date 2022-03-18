@@ -3,15 +3,17 @@
 <html lang="en">
 <head>
 
+<link rel="stylesheet" type="text/css" href="style.css 2">
 <title> Taylor Mullen's Midterm </title>
+
 </head>
+</html>
 
-<link rel="stylesheet" href= "style.css 2">
-<h1>
+<div id="headline"
   <strong> CFT Artists vs. The Art World </strong>
-</h1>
+</div>
 
-
+<body>
   Blake Gopnik - New York Times
   <p>Around 1425, the Florentine artist Masaccio painted the first major works in one-point perspective. That revolutionized what artists could do ever after.
   In Paris in 1839, Louis-Jacques-Mandé Daguerre demonstrated his new photographic invention. It changed the nature of visual representation and museum walls haven’t been the same since.
